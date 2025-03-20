@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Asharib Ali",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "My First PY Book",
+        "author": "Tayyab",
+        "year": "2025",
+        "genre": "Python Dev",
+        "read": false
+    }
+]
